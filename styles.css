@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@700&display=swap');
+
+
+
+
+.card-wide {
+    max-width: 800px;
+  }
+.dropdown-menu-wide {
+    min-width: 300px;
+  }
+.my-font{
+    Font-size: 78px;
+    font-family: 'Source Serif Pro', serif;
+    color: white;
+}
+.custom-paragraph {
+    line-height: 1.2;
+  }
+.sec-11{
+    background-color:#84C0FC;
+}
+.con-height{
+    min-height:1600px;
+}
+.my-font2{
+    margin-top:30px;
+    padding-top: 100px;
+    Font-size: 44px;
+    font-family: 'Source Serif Pro', serif;
+}
+.btn-link {
+    color: rgb(0, 0, 0);
+} 
+  
+.btn-link {
+    border-bottom: 5px solid;
+    padding-bottom: 0.2em;
+  }
+.my-btn3 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.sec-my-1{
+    height: 620px;
+    background-color:#84C0FC;
+} 
+.my-para{
+    font-size: 30px;
+    font-family: 'Source Serif Pro', serif;
+}
+.my-sec{
+    margin-top: 50px;
+}
+.sec-my-2{
+    height: 520px;
+    background-color:#03243B;
+}
+.my-para-1{
+    color:white;
+    font-size: 60px;
+    font-family: 'Source Serif Pro', serif;
+}   
+.fot-col{
+    background-color:#196BDE;
+} 
+.fot-col-1{
+    background-color:#4A83D8;
+} 
+.sec-my-3{
+    height: 420px;
+}
+.my-footer-1 {
+    background: linear-gradient(to right, #4A83D8 60%, #196BDE 50%);
+  }
+.align-items-stretch > div {
+    display: contents;
+    align-items: stretch;
+  }  
